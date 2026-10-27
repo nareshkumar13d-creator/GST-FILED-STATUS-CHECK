@@ -1,0 +1,6 @@
+__pycache__/
+build/
+dist/
+gst_session.json
+gst_settings.json
+gst_due_dates.json
